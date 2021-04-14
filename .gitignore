@@ -1,0 +1,6 @@
+# Ignore these files
+
+env
+*.DS_Store
+*.pyc
+__pycache__
